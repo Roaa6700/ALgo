@@ -14,7 +14,7 @@ This document outlines the operational algorithms, design specifications, and wo
 6.  **Unload Item:** Moves to the drop-off location and unloads the item.
 7.  **Report Completion:** Updates the WMS on task completion and its current status (idle, busy).
 8.  **Return to Base/Next Task:** Proceeds to a charging station or awaits the next task.
-![image](Screenshot2.png)
+![image](amr_robot_design.png)
 
 ### 1.2. Picking and Packing Robot Operations
 
