@@ -26,6 +26,7 @@ This document outlines the operational algorithms, design specifications, and wo
 6.  **Repeat/Pack:** Continues picking items for the order until complete. If packing, it may arrange items within the container.
 7.  **Report Completion:** Notifies the WMS of successful picking/packing for the order.
 8.  **Await Next Task:** Returns to a ready state for the next picking order.
+![image](picking_packing_robot_design.png)
 
 ## 2. Robot Design and Dimensions
 
